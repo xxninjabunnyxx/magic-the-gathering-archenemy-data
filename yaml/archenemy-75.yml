@@ -1,0 +1,114 @@
+---
+object: card
+id: b8ec6920-bd22-46ef-8f29-69bb39d6de1a
+oracle_id: 6d1a1ea3-6d83-4bee-a7fe-0ddd0f3019cf
+multiverse_ids:
+- 220560
+tcgplayer_id: 37266
+cardmarket_id: 240703
+name: Yavimaya Dryad
+lang: en
+released_at: '2010-06-18'
+uri: https://api.scryfall.com/cards/b8ec6920-bd22-46ef-8f29-69bb39d6de1a
+scryfall_uri: https://scryfall.com/card/arc/75/yavimaya-dryad?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/8/b8ec6920-bd22-46ef-8f29-69bb39d6de1a.jpg?1562934072
+  normal: https://cards.scryfall.io/normal/front/b/8/b8ec6920-bd22-46ef-8f29-69bb39d6de1a.jpg?1562934072
+  large: https://cards.scryfall.io/large/front/b/8/b8ec6920-bd22-46ef-8f29-69bb39d6de1a.jpg?1562934072
+  png: https://cards.scryfall.io/png/front/b/8/b8ec6920-bd22-46ef-8f29-69bb39d6de1a.png?1562934072
+  art_crop: https://cards.scryfall.io/art_crop/front/b/8/b8ec6920-bd22-46ef-8f29-69bb39d6de1a.jpg?1562934072
+  border_crop: https://cards.scryfall.io/border_crop/front/b/8/b8ec6920-bd22-46ef-8f29-69bb39d6de1a.jpg?1562934072
+mana_cost: "{1}{G}{G}"
+cmc: 3.0
+type_line: Creature — Dryad
+oracle_text: |-
+  Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+  When Yavimaya Dryad enters the battlefield, you may search your library for a Forest card, put it onto the battlefield tapped under target player's control, then shuffle.
+power: '2'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Landwalk
+- Forestwalk
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 8bc5ec64-18d5-4c81-96a1-8f619d81a019
+set: arc
+set_name: Archenemy
+set_type: archenemy
+set_uri: https://api.scryfall.com/sets/8bc5ec64-18d5-4c81-96a1-8f619d81a019
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aarc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/arc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b8ec6920-bd22-46ef-8f29-69bb39d6de1a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6d1a1ea3-6d83-4bee-a7fe-0ddd0f3019cf&unique=prints
+collector_number: '75'
+digital: false
+rarity: uncommon
+flavor_text: The parched earth still shielded those few souls with the heart to call
+  it home.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Rebecca Guay
+artist_ids:
+- f8f662fa-d597-46a3-afb2-91d6e13243e2
+illustration_id: 7f3f7b0c-29e8-4556-a9bb-51c96d657c7e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 4787
+penny_rank: 2875
+prices:
+  usd: '0.18'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.06'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220560
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Yavimaya+Dryad&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Yavimaya+Dryad&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Yavimaya+Dryad
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37266?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Yavimaya+Dryad&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Yavimaya+Dryad&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

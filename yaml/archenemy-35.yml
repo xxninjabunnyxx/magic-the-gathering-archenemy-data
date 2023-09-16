@@ -1,0 +1,111 @@
+---
+object: card
+id: 69ed9113-8d3d-4609-be06-fed3f366e004
+oracle_id: 705a1985-ed39-4a4b-812e-a677170b596e
+multiverse_ids:
+- 220477
+tcgplayer_id: 37117
+cardmarket_id: 240559
+name: Dragon Whelp
+lang: en
+released_at: '2010-06-18'
+uri: https://api.scryfall.com/cards/69ed9113-8d3d-4609-be06-fed3f366e004
+scryfall_uri: https://scryfall.com/card/arc/35/dragon-whelp?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/9/69ed9113-8d3d-4609-be06-fed3f366e004.jpg?1562917149
+  normal: https://cards.scryfall.io/normal/front/6/9/69ed9113-8d3d-4609-be06-fed3f366e004.jpg?1562917149
+  large: https://cards.scryfall.io/large/front/6/9/69ed9113-8d3d-4609-be06-fed3f366e004.jpg?1562917149
+  png: https://cards.scryfall.io/png/front/6/9/69ed9113-8d3d-4609-be06-fed3f366e004.png?1562917149
+  art_crop: https://cards.scryfall.io/art_crop/front/6/9/69ed9113-8d3d-4609-be06-fed3f366e004.jpg?1562917149
+  border_crop: https://cards.scryfall.io/border_crop/front/6/9/69ed9113-8d3d-4609-be06-fed3f366e004.jpg?1562917149
+mana_cost: "{2}{R}{R}"
+cmc: 4.0
+type_line: Creature — Dragon
+oracle_text: |-
+  Flying
+  {R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+power: '2'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 8bc5ec64-18d5-4c81-96a1-8f619d81a019
+set: arc
+set_name: Archenemy
+set_type: archenemy
+set_uri: https://api.scryfall.com/sets/8bc5ec64-18d5-4c81-96a1-8f619d81a019
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aarc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/arc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/69ed9113-8d3d-4609-be06-fed3f366e004/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A705a1985-ed39-4a4b-812e-a677170b596e&unique=prints
+collector_number: '35'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 3f7f9b50-e94e-4bdb-886a-be542cbe77a4
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 14724
+penny_rank: 13465
+prices:
+  usd: '0.11'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220477
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dragon+Whelp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dragon+Whelp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dragon+Whelp
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37117?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dragon+Whelp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragon+Whelp&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

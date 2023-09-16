@@ -1,0 +1,124 @@
+---
+object: card
+id: d51634e0-84ee-4432-9ef4-c3f3cff01647
+oracle_id: 70fa209f-5e79-44de-81ce-1d8d0d8c1006
+multiverse_ids:
+- 220476
+tcgplayer_id: 37107
+cardmarket_id: 240549
+name: Cemetery Reaper
+lang: en
+released_at: '2010-06-18'
+uri: https://api.scryfall.com/cards/d51634e0-84ee-4432-9ef4-c3f3cff01647
+scryfall_uri: https://scryfall.com/card/arc/12/cemetery-reaper?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/5/d51634e0-84ee-4432-9ef4-c3f3cff01647.jpg?1562940068
+  normal: https://cards.scryfall.io/normal/front/d/5/d51634e0-84ee-4432-9ef4-c3f3cff01647.jpg?1562940068
+  large: https://cards.scryfall.io/large/front/d/5/d51634e0-84ee-4432-9ef4-c3f3cff01647.jpg?1562940068
+  png: https://cards.scryfall.io/png/front/d/5/d51634e0-84ee-4432-9ef4-c3f3cff01647.png?1562940068
+  art_crop: https://cards.scryfall.io/art_crop/front/d/5/d51634e0-84ee-4432-9ef4-c3f3cff01647.jpg?1562940068
+  border_crop: https://cards.scryfall.io/border_crop/front/d/5/d51634e0-84ee-4432-9ef4-c3f3cff01647.jpg?1562940068
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Creature — Zombie
+oracle_text: |-
+  Other Zombie creatures you control get +1/+1.
+  {2}{B}, {T}: Exile target creature card from a graveyard. Create a 2/2 black Zombie creature token.
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+all_parts:
+- object: related_card
+  id: d51634e0-84ee-4432-9ef4-c3f3cff01647
+  component: combo_piece
+  name: Cemetery Reaper
+  type_line: Creature — Zombie
+  uri: https://api.scryfall.com/cards/d51634e0-84ee-4432-9ef4-c3f3cff01647
+- object: related_card
+  id: 4cf9feeb-23c3-4c3b-bc04-f50380d20197
+  component: token
+  name: Zombie
+  type_line: Token Creature — Zombie
+  uri: https://api.scryfall.com/cards/4cf9feeb-23c3-4c3b-bc04-f50380d20197
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 8bc5ec64-18d5-4c81-96a1-8f619d81a019
+set: arc
+set_name: Archenemy
+set_type: archenemy
+set_uri: https://api.scryfall.com/sets/8bc5ec64-18d5-4c81-96a1-8f619d81a019
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aarc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/arc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d51634e0-84ee-4432-9ef4-c3f3cff01647/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A70fa209f-5e79-44de-81ce-1d8d0d8c1006&unique=prints
+collector_number: '12'
+digital: false
+rarity: rare
+flavor_text: Every grave cradles a recruit.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dave Allsop
+artist_ids:
+- 99b8310a-4fd6-4ded-8ab7-3b5185821cbe
+illustration_id: 2456dd87-49dc-42b9-af2f-d9beaad177e5
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1532
+penny_rank: 951
+prices:
+  usd: '0.94'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.24'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220476
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cemetery+Reaper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cemetery+Reaper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cemetery+Reaper
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37107?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cemetery+Reaper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cemetery+Reaper&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
